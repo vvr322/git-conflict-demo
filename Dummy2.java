@@ -4,6 +4,7 @@ public class Dummy2 {
     {
         System.out.println("sahithi");
         System.out.println("conflict branch");
+        System.out.println("same branch");
         System.out.println("asdfghjkl");
     }
 }
