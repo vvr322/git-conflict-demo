@@ -2,6 +2,6 @@ public class Dummy2 {
 
     public void addMethod()
     {
-        System.out.println("sahithi eating ice cream");
+        System.out.println("REMOTE: sahithi eating chocolate");
     }
 }
